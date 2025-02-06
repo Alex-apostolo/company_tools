@@ -2,4 +2,6 @@ ml-challenge*
 cleaned_ml*
 descriptions*
 tokenized_dataset
+model_checkpoint
+results
 .DS_Store
